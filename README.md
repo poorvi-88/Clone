@@ -1,1 +1,1 @@
-Amazon Clone Using HTML and CSS
+Amazon and Myntra Clone Using HTML and CSS
